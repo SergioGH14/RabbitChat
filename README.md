@@ -1,8 +1,9 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=785624943)
 # Introducción a RabbitMQ y Ejercicios Prácticos
 Este tutorial está diseñado para ayudarte a estructurar una sesión de una hora sobre **RabbitMQ** , enfocada en la nomenclatura clave y ejercicios prácticos que demuestran los conceptos principales. También incluye una comparación con Azure Service Bus para entender las similitudes y diferencias entre ambas tecnologías. Está orientado a participantes con conocimientos previos en comunicación asíncrona.
 
-## Antes de empezar
 
+## Antes de empezar
 ### Configuración de RabbitMQ con Docker
 Para ejecutar RabbitMQ localmente con la interfaz de administración habilitada, puedes utilizar **Docker** . A continuación, se presentan los comandos necesarios para descargar e iniciar una instancia de RabbitMQ con el plugin de management y exponer los puertos necesarios.**Ejecutar RabbitMQ con Docker**
 Abre una terminal y ejecuta el siguiente comando:
