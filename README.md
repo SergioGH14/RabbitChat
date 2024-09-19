@@ -232,8 +232,8 @@ Vincular las colas al exchange con diferentes claves de enrutamiento:
 
 
 ```shell
-shell:>bind-queue info_queue direct_exchange info
-shell:>bind-queue error_queue direct_exchange error
+shell:>bind-queue-to-direct info_queue direct_exchange info
+shell:>bind-queue-to-direct error_queue direct_exchange error
 ```
 
 3. **Enviar Mensajes con Diferentes Claves de Enrutamiento:**
