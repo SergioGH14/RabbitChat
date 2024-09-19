@@ -93,8 +93,14 @@ Para asegurarte de que tu aplicación puede conectarse correctamente a RabbitMQ:
 
 3. Si hay firewalls o reglas de seguridad, asegúrate de que el puerto **5672**  (y **15672**  si accedes a la interfaz web) estén abiertos.
 
+## Enciende la applicación
 
-
+```bash
+./gradlew bootJar
+```
+```bash
+java -jar build/libs/RabbitChat-0.0.1-SNAPSHOT.jar
+```
 ## Contenido
 
 - [1. Nomenclatura y Conceptos Clave de RabbitMQ](#1-nomenclatura-y-conceptos-clave-de-rabbitmq)
