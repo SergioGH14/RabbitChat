@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=785624943)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=859994670)
 # Introducción a RabbitMQ y Ejercicios Prácticos
 Este tutorial está diseñado para ayudarte a estructurar una sesión de una hora sobre **RabbitMQ** , enfocada en la nomenclatura clave y ejercicios prácticos que demuestran los conceptos principales. También incluye una comparación con Azure Service Bus para entender las similitudes y diferencias entre ambas tecnologías. Está orientado a participantes con conocimientos previos en comunicación asíncrona.
 
