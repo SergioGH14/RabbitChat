@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "mathiasfrohlich.kotlin",
+        "naco-siren.gradle-language",
+        "redhat.java",
+        "vmware.vscode-boot-dev-pack",
+        "vmware.vscode-spring-boot",
+        "vscjava.vscode-gradle",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-spring-boot-dashboard",
+        "vscjava.vscode-spring-initializr"
+  }
